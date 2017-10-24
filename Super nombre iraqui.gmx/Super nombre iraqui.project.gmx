@@ -90,10 +90,40 @@
       <sprite>sprites\spr_bs1BAtackIzq</sprite>
     </sprites>
     <sprite>sprites\spr_piso</sprite>
+    <sprites name="tienda">
+      <sprite>sprites\spr_fondopiedra</sprite>
+      <sprite>sprites\spr_filtrofondo</sprite>
+      <sprite>sprites\spr_marcocofre</sprite>
+      <sprite>sprites\spr_marcoitems</sprite>
+      <sprites name="upgrade1">
+        <sprite>sprites\spr_armadurapiedra</sprite>
+        <sprite>sprites\spr_botaspiedra</sprite>
+        <sprite>sprites\spr_escudopiedra</sprite>
+        <sprite>sprites\spr_lanzapiedra</sprite>
+      </sprites>
+      <sprites name="upgrade2">
+        <sprite>sprites\spr_armaduraplata</sprite>
+        <sprite>sprites\spr_botasplata</sprite>
+        <sprite>sprites\spr_escudoplata</sprite>
+        <sprite>sprites\spr_lanzaplata</sprite>
+      </sprites>
+      <sprites name="upgrade3">
+        <sprite>sprites\spr_armaduraoro</sprite>
+        <sprite>sprites\spr_botasoro</sprite>
+        <sprite>sprites\spr_escudooro</sprite>
+        <sprite>sprites\spr_lanzaoro</sprite>
+      </sprites>
+      <sprite>sprites\spr_cofreoro</sprite>
+      <sprite>sprites\spr_cofreplata</sprite>
+      <sprite>sprites\spr_cofrepiedra</sprite>
+      <sprite>sprites\spr_volver</sprite>
+      <sprite>sprites\spr_llave</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\back_forestSun</background>
     <background>background\background0</background>
+    <background>background\background2</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path_click</path>
@@ -207,6 +237,29 @@
       <object>objects\obj_bs1H</object>
       <object>objects\obj_bs1B</object>
     </objects>
+    <objects name="tienda">
+      <object>objects\obj_fondo</object>
+      <object>objects\obj_filtro</object>
+      <object>objects\obj_marcocofre</object>
+      <object>objects\obj_marcoitems</object>
+      <object>objects\obj_pechopiedra</object>
+      <object>objects\obj_armaduraplata</object>
+      <object>objects\obj_armaduraoro</object>
+      <object>objects\obj_botaspiedra</object>
+      <object>objects\obj_botasplata</object>
+      <object>objects\obj_escudopiedra</object>
+      <object>objects\obj_botasoro</object>
+      <object>objects\obj_escudoplata</object>
+      <object>objects\obj_escudooro</object>
+      <object>objects\obj_lanzapiedra</object>
+      <object>objects\obj_lanzaplata</object>
+      <object>objects\obj_lanzaoro</object>
+      <object>objects\obj_cofreoro</object>
+      <object>objects\obj_cofreplata</object>
+      <object>objects\obj_cofrepiedra</object>
+      <object>objects\obj_volver</object>
+      <object>objects\obj_llave</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_mainMenu</room>
@@ -219,6 +272,7 @@
     <room>rooms\room_lvl1</room>
     <room>rooms\room_bs1</room>
     <room>rooms\room_config</room>
+    <room>rooms\room_tienda</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
