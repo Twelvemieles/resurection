@@ -41,14 +41,14 @@
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
-    <view visible="0" objName="" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
     <instance objName="obj_fondo" x="0" y="0" name="inst_77282E23" locked="0" code="" scaleX="1.06673622131348" scaleY="1.02595293521881" colour="4294967295" rotation="0"/>
@@ -76,6 +76,15 @@
     <instance objName="obj_botasoro" x="544" y="992" name="inst_BAA9B362" locked="0" code="" scaleX="0.75" scaleY="0.75" colour="4294967295" rotation="0"/>
     <instance objName="obj_escudooro" x="704" y="960" name="inst_AB288B03" locked="0" code="" scaleX="0.75" scaleY="0.75" colour="4294967295" rotation="0"/>
     <instance objName="obj_lanzaoro" x="864" y="928" name="inst_DF43175D" locked="0" code="" scaleX="0.75" scaleY="0.75" colour="4294967295" rotation="0"/>
+    <instance objName="obj_precio" x="135" y="429" name="inst_39DE8372" locked="0" code="" scaleX="0.449999988079071" scaleY="0.300000011920929" colour="4294967295" rotation="0"/>
+    <instance objName="obj_precio" x="138" y="782" name="inst_26CFB128" locked="0" code="" scaleX="0.449999988079071" scaleY="0.300000011920929" colour="4294967295" rotation="0"/>
+    <instance objName="obj_precio" x="137" y="1134" name="inst_AED419F8" locked="0" code="" scaleX="0.449999988079071" scaleY="0.300000011920929" colour="4294967295" rotation="0"/>
+    <instance objName="obj_llave" x="143" y="1142" name="inst_3FE27D74" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_llave" x="145" y="790" name="inst_191665C6" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_llave" x="141" y="438" name="inst_5DAA1307" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="obj_5" x="207" y="450" name="inst_F2653E65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_9" x="207" y="802" name="inst_08BAD2BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_14" x="202" y="1157" name="inst_F61840AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

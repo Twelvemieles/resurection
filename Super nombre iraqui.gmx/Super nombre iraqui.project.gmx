@@ -118,6 +118,10 @@
       <sprite>sprites\spr_cofrepiedra</sprite>
       <sprite>sprites\spr_volver</sprite>
       <sprite>sprites\spr_llave</sprite>
+      <sprite>sprites\spr_precio</sprite>
+      <sprite>sprites\spr_5</sprite>
+      <sprite>sprites\spr_9</sprite>
+      <sprite>sprites\spr_14</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -259,6 +263,10 @@
       <object>objects\obj_cofrepiedra</object>
       <object>objects\obj_volver</object>
       <object>objects\obj_llave</object>
+      <object>objects\obj_precio</object>
+      <object>objects\obj_5</object>
+      <object>objects\obj_9</object>
+      <object>objects\obj_14</object>
     </objects>
   </objects>
   <rooms name="rooms">
